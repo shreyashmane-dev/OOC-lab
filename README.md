@@ -14,3 +14,14 @@ Download an experiment's C++ source by clicking a **Download** link below. Exper
 | 8 | 31-08-26 | [Exp8_1.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/Exp8_1.cpp), [Exp8_2.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/Exp8_2.cpp), [Exp8_3.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/Exp8_3.cpp), [Exp8_4.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/Exp8_4.cpp) |
 | 9 | 07-09-26 | [Exp9_1.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/Exp9_1.cpp) |
 | 10 | 21-09-26 | [Exp10_1.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/Exp10_1.cpp) |
+
+## Additional Programs
+
+| Date | Program | Source file download |
+|:---:|---|---|
+| 23-07-26 | Local class | [Localclass.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/Localclass.cpp) |
+| 05-08-26 | Nested class | [nestedclass.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/nestedclass.cpp) |
+| 12-08-26 | Even or odd | [oddeven.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/oddeven.cpp) |
+| 19-08-26 | Positive or negative | [posneg.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/posneg.cpp) |
+| 02-09-26 | Sum of three numbers | [sum.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/sum.cpp) |
+| 14-09-26 | Switch calculator | [switch.cpp](https://github.com/shreyashmane-dev/OOC-lab/raw/refs/heads/main/switch.cpp) |
